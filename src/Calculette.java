@@ -1,3 +1,8 @@
+
+/**
+ * @author stéphane.
+ */
+
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import java.awt.Color;
